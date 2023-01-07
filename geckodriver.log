@@ -1,0 +1,282 @@
+1654403918177	geckodriver	INFO	Listening on 127.0.0.1:51118
+1654403918377	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51119" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofile6oF3Y3"
+1654403921684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofile6oF3Y3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51119/devtools/browser/4dd58c4f-747c-49aa-93ac-510382aafec7
+1654403932109	Marionette	INFO	Listening on port 51123
+1654403932734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1654403938459	Marionette	INFO	Stopped listening on port 51123
+[Parent 59044, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1654403942361	geckodriver	INFO	Listening on 127.0.0.1:51188
+1654403943068	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51189" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileIFkPH3"
+1654403944283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileIFkPH3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51189/devtools/browser/51edb494-fb4a-4bcf-aae8-d2aaf5ce4062
+1654403950878	Marionette	INFO	Listening on port 51192
+1654403951131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1654404038617	Marionette	INFO	Stopped listening on port 51192
+1657854404907	geckodriver	INFO	Listening on 127.0.0.1:49558
+1657854405555	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49559" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileq4BhHg"
+1657854408534	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileq4BhHg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49559/devtools/browser/da3ac936-2f6d-4aa7-98ae-59a989f35b25
+1657854414230	Marionette	INFO	Listening on port 49564
+1657854414507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1657854418549	Marionette	INFO	Stopped listening on port 49564
+[Parent 43572, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:725
+1657854420793	geckodriver	INFO	Listening on 127.0.0.1:49622
+1657854421473	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49623" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofilez3gyFR"
+1657854422389	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofilez3gyFR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49623/devtools/browser/4a717def-ef81-44c9-8e12-f730706a788d
+1657854426909	Marionette	INFO	Listening on port 49626
+1657854427419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1657854439956	Marionette	INFO	Stopped listening on port 49626
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1664461701109	geckodriver	INFO	Listening on 127.0.0.1:59417
+1664461704249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59418" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileby3gSj"
+1664461705672	Marionette	INFO	Marionette enabled
+1664461705681	Marionette	INFO	Listening on port 59429
+WebDriver BiDi listening on ws://127.0.0.1:59418
+Read port: 59429
+1664461705941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileby3gSj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59418/devtools/browser/8906ea9d-0f17-4b31-a1ae-db116f9c7979
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1664461719419	Marionette	INFO	Stopped listening on port 59429
+1664461720260	geckodriver	INFO	Listening on 127.0.0.1:62120
+1664461723353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileGd8cYW"
+1664461723816	Marionette	INFO	Marionette enabled
+1664461723821	Marionette	INFO	Listening on port 62128
+Read port: 62128
+WebDriver BiDi listening on ws://127.0.0.1:62121
+1664461723930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileGd8cYW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62121/devtools/browser/87e7ab28-5220-40a6-99a6-b71459e5f885
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1664461799728	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1664461800769	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664461806863	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664461807275	Marionette	INFO	Stopped listening on port 62128
+1664504718577	geckodriver	INFO	Listening on 127.0.0.1:55120
+1664504721676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileYoNCS7"
+1664504722379	Marionette	INFO	Marionette enabled
+1664504722384	Marionette	INFO	Listening on port 55131
+Read port: 55131
+WebDriver BiDi listening on ws://127.0.0.1:55121
+1664504722555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileYoNCS7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55121/devtools/browser/66e449c6-4df2-425d-827e-f8aa3e4f3e86
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1664504736491	Marionette	INFO	Stopped listening on port 55131
+1664504737307	geckodriver	INFO	Listening on 127.0.0.1:58707
+1664504740397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofilezghoZH"
+1664504740934	Marionette	INFO	Marionette enabled
+1664504740940	Marionette	INFO	Listening on port 58717
+Read port: 58717
+WebDriver BiDi listening on ws://127.0.0.1:58708
+1664504741092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofilezghoZH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58708/devtools/browser/9d12e34a-e3f6-4602-99cb-6f9aeb163a0a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1664504753850	Marionette	INFO	Stopped listening on port 58717
+1664505833104	geckodriver	INFO	Listening on 127.0.0.1:59008
+1664505836205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileTAM3gS"
+1664505836669	Marionette	INFO	Marionette enabled
+1664505836676	Marionette	INFO	Listening on port 59018
+Read port: 59018
+WebDriver BiDi listening on ws://127.0.0.1:59009
+1664505836859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileTAM3gS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59009/devtools/browser/55953fce-d366-43fa-9839-1fb7fe384d4d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1664505843072	Marionette	INFO	Stopped listening on port 59018
+1664505844368	geckodriver	INFO	Listening on 127.0.0.1:65373
+1664505847441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileNiW4bA"
+1664505848020	Marionette	INFO	Marionette enabled
+1664505848031	Marionette	INFO	Listening on port 65383
+Read port: 65383
+WebDriver BiDi listening on ws://127.0.0.1:65374
+1664505848235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileNiW4bA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65374/devtools/browser/d5b13826-8a83-4fba-abc4-bbb155b296ed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1664505908169	Marionette	INFO	Stopped listening on port 65383
+1672884928117	geckodriver	INFO	Listening on 127.0.0.1:60389
+1672884931242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofilevGXTfq"
+1672884932168	Marionette	INFO	Marionette enabled
+1672884932174	Marionette	INFO	Listening on port 60399
+Read port: 60399
+WebDriver BiDi listening on ws://127.0.0.1:60390
+1672884932362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofilevGXTfq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60390/devtools/browser/17e3f353-d57a-4e6c-9d11-6bbe1645d115
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1672884937467	Marionette	INFO	Stopped listening on port 60399
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1672884939131	geckodriver	INFO	Listening on 127.0.0.1:60438
+1672884942208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileTCCulK"
+1672884943054	Marionette	INFO	Marionette enabled
+1672884943059	Marionette	INFO	Listening on port 60448
+Read port: 60448
+WebDriver BiDi listening on ws://127.0.0.1:60439
+1672884943196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sss2327\\AppData\\Local\\Temp\\rust_mozprofileTCCulK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60439/devtools/browser/7d7a8a97-9973-4a75-bb7a-ff42d7156e51
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1672884954539	Marionette	INFO	Stopped listening on port 60448
