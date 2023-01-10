@@ -34,7 +34,9 @@ def setup(request):
     ## adding attribute driver to BaseClass and assing value of driver we created here
     request.cls.driver = driver         ## request => to class which is using fixture
     yield
+    time.sleep(10)
     driver.close()
+
 
 
 # This hook is used to take automatically screenshot and place in HTML report
